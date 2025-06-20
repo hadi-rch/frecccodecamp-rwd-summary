@@ -1,4 +1,3 @@
-```markdown
 # Ringkasan Lengkap: Sertifikasi Desain Web Responsif freeCodeCamp (2022)
 
 Dokumen ini menyajikan analisis mendalam dan ringkasan komprehensif mengenai sertifikasi Desain Web Responsif (Responsive Web Design) dari freeCodeCamp edisi 2022. Laporan ini ditujukan bagi calon pengembang web, pelajar, dan siapa pun yang ingin memahami struktur, metodologi, hasil pembelajaran, serta pengalaman nyata dari para peserta yang telah menyelesaikan kurikulum ini.
@@ -310,4 +309,3 @@ Untungnya, freeCodeCamp menyediakan jalur yang jelas. Langkah logis berikutnya d
 
 
 # Link Sertifikat Legacy JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/fccdf0d1949-8091-4859-a30a-11d430361623/javascript-algorithms-and-data-structures
-```
